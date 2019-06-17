@@ -13,5 +13,6 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 登陆页与首页的截图：
+
 https://raw.githubusercontent.com/xiexiaobai/jianshu-demo/master/src/statics/main.png
 https://raw.githubusercontent.com/xiexiaobai/jianshu-demo/master/src/statics/zuce.png
