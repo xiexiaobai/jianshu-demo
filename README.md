@@ -502,6 +502,6 @@ export default connect(mapState, mapDispatch)(List);
 ![image.png](https://upload-images.jianshu.io/upload_images/1517219-98c8ca3b3b7085b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 登陆与首页截图
-
+https://raw.githubusercontent.com/xiexiaobai/jianshu-demo/master/jiansu.gif
 https://raw.githubusercontent.com/xiexiaobai/jianshu-demo/master/src/statics/main.png
 https://raw.githubusercontent.com/xiexiaobai/jianshu-demo/master/src/statics/zuce.png
